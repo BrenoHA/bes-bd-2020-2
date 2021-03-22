@@ -1,12 +1,9 @@
 <h1>
  💻 Banco de Dados 1 - UFG
 </h1>
-
 <br />
 
 ## ⚙️ Repositório
-
-<br />
 
 Repositório para disciplina Banco de Dados 1
 

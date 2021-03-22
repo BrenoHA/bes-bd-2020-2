@@ -1,12 +1,9 @@
 <h1>
  Tópico 12
 </h1>
-
 <br />
 
 ## Requisitos de Dados:
-
-<br />
 
 - trata-se de um banco de dados simples para um aplicativo de transporte (tipo _Uber_), denominado **BD Transporte Simples**;
 - basicamente, o banco de dados possui **percursos**, e cada percurso envolve um motorista, um cliente, data/hora de início, local de origem, local de destino, valor referente ao serviço prestado e data/hora do pagamento;
